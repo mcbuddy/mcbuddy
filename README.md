@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/mcbuddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcbuddy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mcbuddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mcbuddy" height="30" width="40" /></a>
 <a href="https://instagram.com/dtechover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtechover" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dtechover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dtechover" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCt3WckGbIm8588P09lqJfsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dtechover" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

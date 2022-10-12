@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, my name is Budi Sugianto</h1>
 <h3 align="center">A passionate and highly skilled SDET and QA Automation Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcbuddy" alt="mcbuddy" /></a> </p>
-
 - 🔭 I’m currently working on [kamus_anak_gaul](https://github.com/mcbuddy/kamus_anak_gaul)
 
 - 🌱 I’m currently learning **Flutter, Java, and Mobile Development**

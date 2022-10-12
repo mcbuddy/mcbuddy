@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter, Java, and Mobile Development**
 
-- 👯 I’m looking to collaborate on [kamus_anak_gaul](https://github.com/mcbuddy/kamus_anak_gaul)
-
-- 🤝 I’m looking for help with [kamus_anak_gaul](https://github.com/mcbuddy/kamus_anak_gaul)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mcbuddy](https://github.com/mcbuddy)
 
 - 📝 I regularly write articles on [dtechover-qa.com](dtechover-qa.com)

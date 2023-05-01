@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mcbuddy](https://github.com/mcbuddy)
 
-- 📝 I regularly write articles on [dtechover-qa.com](dtechover-qa.com)
-
 - 💬 Ask me about **QA, and Test Automation**
 
 - 📫 How to reach me **hi@budisugianto.com**

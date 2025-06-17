@@ -1,17 +1,62 @@
-<h1 align="center">Hi 👋, my name is Budi Sugianto</h1>
-<h3 align="center">A passionate and highly skilled SDET and QA Automation Engineer</h3>
+# 👋 Hi, I’m Budi Sugianto (mcbuddy)
 
-- 🔭 I’m currently working on [kamus_anak_gaul](https://github.com/mcbuddy/kamus_anak_gaul)
+![GitHub followers](https://img.shields.io/github/followers/mcbuddy?style=social)
+[![LinkedIn](https://img.shields.io/badge/Connect-Linkedin-blue)](https://www.linkedin.com/in/mcbuddy/)
+[![YouTube: dtechover](https://img.shields.io/badge/YouTube-dtechover-red)](https://www.youtube.com/@dtechover)
 
-- 🌱 I’m currently learning **Flutter, Java, and Mobile Development**
+🔧 **QA Leader | SDET | Architect**  
+💬 Passionate about quality engineering, developer productivity, and scalable testing systems  
+🏦 Fintech, SaaS, and web application experience | 🇮🇩 Mentor for Indonesian QA community  
 
-- 👨‍💻 All of my projects are available at [https://github.com/mcbuddy](https://github.com/mcbuddy)
+---
 
-- 💬 Ask me about **QA, and Test Automation**
+## 🧠 About Me
 
-- 📫 How to reach me **hi@budisugianto.com**
+With over **12 years of experience in Ruby/Rails** and test automation, I lead **QA teams** and build **robust test frameworks** for complex web and mobile platforms. I specialize in:
 
-- 📄 Know about my experiences [budisugianto.com](budisugianto.com)
+- Designing **CI/CD-integrated testing infrastructure**  
+- Building scalable **test architecture** (UI, API, mobile, performance)  
+- Leading teams with empathy and vision — mentoring junior engineers to grow in both tech and leadership  
+- Shipping features with speed and confidence by removing QA bottlenecks  
+
+---
+
+## 🔥 What I’m Working On
+
+### 🧪 [testivAI](https://github.com/mcbuddy/testivai-visual-regression)  
+Open-source **visual regression testing** toolkit for modern web teams  
+✅ Local + CI support | 📸 Screenshot diff | 📊 HTML reports
+
+### 📢 [dtechover](https://www.youtube.com/@dtechover)  
+Mentoring and content creation for the Indonesian QA/testing community 🇮🇩  
+🎓 Test tools, automation strategies, and career advice — all in Bahasa!
+
+---
+
+## 💼 Tech Stack Highlights
+
+- **Languages:** Ruby, JavaScript, TypeScript, Python  
+- **Frameworks:** RSpec, Capybara, Selenium, Cypress, Playwright, Appium  
+- **CI/CD & Infra:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS  
+- **Performance:** K6, Gatling, LighthouseJS  
+- **Tools:** Percy, Cucumber, PyTest, Redis, PostgreSQL  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbuddy&show_icons=true&theme=default)
+
+---
+
+## 💬 Let’s Connect
+
+I'm always open to connect with other engineers, founders, and open-source contributors.  
+If you’re passionate about quality engineering and automation — let’s talk!
+
+📫 [LinkedIn](https://www.linkedin.com/in/mcbuddy/) | 🐙 [GitHub](https://github.com/mcbuddy) | 📺 [YouTube](https://www.youtube.com/@dtechover)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +73,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcbuddy&show_icons=true&locale=en&layout=compact" alt="mcbuddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcbuddy&" alt="mcbuddy" /></p>
+
+> "Test smart. Lead with care. Build with purpose."

@@ -6,7 +6,7 @@
 
 🔧 **QA Leader | SDET | Test Architect**  
 💬 Passionate about quality engineering, developer productivity, and scalable testing systems  
-🏦 Fintech, SaaS, and web application experience | 🇮🇩 Mentor for Indonesian QA community  
+🏦 Edtech, Adtech, Fintech, SaaS, and web application experience | 🇮🇩 Mentor for Indonesian QA and SDET community  
 
 ---
 
@@ -29,7 +29,7 @@ Open-source **visual regression testing** toolkit for modern web teams
 
 ### 📢 [dtechover](https://www.youtube.com/@dtechover)  
 Mentoring and content creation for the Indonesian QA/testing community 🇮🇩  
-🎓 Test tools, automation strategies, and career advice — all in Bahasa!
+🎓 Test tools, automation strategies, and career advice — all in Bahasa Indonesia!
 
 ---
 
@@ -44,8 +44,6 @@ Mentoring and content creation for the Indonesian QA/testing community 🇮🇩
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbuddy&show_icons=true&theme=default)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcbuddy&show_icons=true&locale=en&layout=compact" alt="mcbuddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcbuddy&" alt="mcbuddy" /></p>

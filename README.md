@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Budi Sugianto (mcbuddy)
 
-![GitHub followers](https://img.shields.io/github/followers/mcbuddy?style=social)
 [![LinkedIn](https://img.shields.io/badge/Connect-Linkedin-blue)](https://www.linkedin.com/in/mcbuddy/)
 [![YouTube: dtechover](https://img.shields.io/badge/YouTube-dtechover-red)](https://www.youtube.com/@dtechover)
 

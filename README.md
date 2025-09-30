@@ -27,11 +27,6 @@ My expertise lies in architecting end-to-end testing solutions using a modern, s
 | | 📱 Appium | ☁️ AWS |
 
 ---
-<p align="center">
-  <a href="https://github.com/mcbuddy">
-    <img src="https://github-readme-stats.vercel.app/api?username=mcbuddy&show_icons=true&theme=radical" alt="Budi's GitHub Stats" />
-  </a>
-</p>
 
 ## 📈 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcbuddy&show_icons=true&locale=en&layout=compact" alt="mcbuddy" /></p>

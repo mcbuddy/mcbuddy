@@ -3,44 +3,35 @@
 [![LinkedIn](https://img.shields.io/badge/Connect-Linkedin-blue)](https://www.linkedin.com/in/mcbuddy/)
 [![YouTube: dtechover](https://img.shields.io/badge/YouTube-dtechover-red)](https://www.youtube.com/@dtechover)
 
-🔧 **QA Leader | SDET | Test Architect**  
-💬 Passionate about quality engineering, developer productivity, and scalable testing systems  
-🏦 Edtech, Adtech, Fintech, SaaS, and web application experience | 🇮🇩 Mentor for Indonesian QA and SDET community  
+### Strategic SDET Lead | Architecting AI-Driven Quality Solutions
+
+I'm a Quality Engineering Leader with over 12 years of experience building scalable, robust, and intelligent test automation frameworks. My passion is to bridge the gap between quality assurance and modern AI, transforming testing from a simple bug-finding process into a value-driving engineering discipline.
+
+- 🔭 I’m currently working on **[TestivAI](https://github.com/mcbuddy/testivai-playwright)**, an open-source, AI-powered visual regression testing tool designed to intelligently identify UI changes.
+- 🌱 I’m currently deepening my expertise in systems architecture and data strategy through a **Master of Science in Information Systems**.
+- 💬 Ask me about **Test Strategy, AI in QA, Kubernetes, Playwright,** or anything related to building high-performing QA teams.
+- 📫 How to reach me: **[Connect with me on LinkedIn](http://www.linkedin.com/in/mcbuddy)**
 
 ---
 
-## 🧠 About Me
+### 🚀 My Tech Stack & Competencies
 
-With over **12 years of experience in Web, Software Test Automation and QA** , I lead **SDET teams** and build **robust test frameworks** for complex web and mobile platforms. I specialize in:
+My expertise lies in architecting end-to-end testing solutions using a modern, scalable tech stack.
 
-- Designing **CI/CD-integrated testing infrastructure**  
-- Building scalable **test architecture** (UI, API, mobile, performance)  
-- Leading teams with empathy and vision — mentoring junior engineers to grow in both tech and leadership  
-- Shipping features with speed and confidence by removing QA bottlenecks  
-
----
-
-## 🔥 What I’m Working On
-
-### 🧪 [testivAI](https://github.com/mcbuddy/testivai-visual-regression)  
-Open-source **visual regression testing** toolkit for modern web teams  
-✅ Local + CI support | 📸 Screenshot diff | 📊 HTML reports
-
-### 📢 [dtechover](https://www.youtube.com/@dtechover)  
-Mentoring and content creation for the Indonesian QA/testing community 🇮🇩  
-🎓 Test tools, automation strategies, and career advice — all in Bahasa Indonesia!
+| AI Competencies | Languages & Frameworks | CI/CD & DevOps |
+|---|---|---|
+| 🤖 GenAI for Test Automation | 🐍 Python (PyTest, Behave) | 🐳 Docker |
+| 👁️ AI-Driven Visual Regression | 📜 TypeScript (Playwright, Cypress) | ☸️ Kubernetes |
+| 💻 AI-Assisted Development | 💎 Ruby (RSpec) | 🚀 GitHub Actions |
+| | ⚡️ K6 & Gatling (Performance) | ⚙️ Jenkins |
+| | 📱 Appium | ☁️ AWS |
 
 ---
-
-## 💼 Tech Stack Highlights
-
-- **Languages:** Ruby, JavaScript, TypeScript, Python  
-- **Frameworks:** RSpec, Capybara, Selenium, Cypress, Playwright, Appium  
-- **CI/CD & Infra:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS  
-- **Performance:** K6, Gatling, LighthouseJS  
-- **Tools:** Percy, Cucumber, PyTest, Redis, PostgreSQL  
-
----
+<p align="center">
+  <a href="https://github.com/mcbuddy">
+    <img src="https://github-readme-stats.vercel.app/api?username=mcbuddy&show_icons=true&theme=radical" alt="Budi's GitHub Stats" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcbuddy&show_icons=true&locale=en&layout=compact" alt="mcbuddy" /></p>

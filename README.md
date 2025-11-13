@@ -7,7 +7,7 @@
 
 I'm a Quality Engineering Leader with over 12 years of experience building scalable, robust, and intelligent test automation frameworks. My passion is to bridge the gap between quality assurance and modern AI, transforming testing from a simple bug-finding process into a value-driving engineering discipline.
 
-- 🔭 I’m currently working on **[TestivAI](https://github.com/mcbuddy/testivai-playwright)**, an open-source, AI-powered visual regression testing tool designed to intelligently identify UI changes.
+- 🔭 I’m currently working on **[TestivAI](https://github.com/mcbuddy/testivai-playwright)**, AI-powered visual regression testing tool designed to intelligently identify UI changes.
 - 🌱 I’m currently deepening my expertise in systems architecture and data strategy through a **Master of Science in Information Systems**.
 - 💬 Ask me about **Test Strategy, AI in QA, Kubernetes, Playwright,** or anything related to building high-performing QA teams.
 - 📫 How to reach me: **[Connect with me on LinkedIn](http://www.linkedin.com/in/mcbuddy)**
